@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right,#3a2a41 ,#50769a);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub-container, .sub-container-1, .sub-container-2, .sub-container-3{
+    display: flex;
+    align-items: center;
+}
+.sub, .sub-1, .sub-2, .sub-3, .sub-4, .sub-5, .sub-6, .sub-7, .sub-8, .sub-9, .sub-10, .sub-11, .sub-12, .sub-13, .sub-14 ,.sub-15{
+    width: 12vw;
+    height: 20vh;
+    border: 1px solid black;
+    background-color: #ffffff;
+}
+
